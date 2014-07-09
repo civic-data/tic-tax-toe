@@ -40,8 +40,8 @@ body {
 */
 .cell2 { 
   /*display: inline-table;*/
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
 }
 .cell {
   position: relative;
